@@ -6,7 +6,7 @@ Side scrolling game to reach the gate of the gods to become a real stone
 god by passing through the obstacles with 3 different levels to conquer the
 obstacles in each level and the enemy has its own pattern
 
-[You Can Play In Icth.io](https://ranggayupis.itch.io/god-rock-1)
+[[You Can Play In Icth.io](https://ranggayupis.itch.io/god-rock-1)]
 
 ## Tools And Assets
 - Made using Unity Editor 2022.3.19f1.
