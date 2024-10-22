@@ -1,3 +1,5 @@
+![Blue Pixel Illustration Presentation](https://github.com/user-attachments/assets/bc279339-9205-46e8-9b74-ef8d373de307)
+
 ## 🔴 About
 **GodRock** is a **SideScroll** game made with **adventure concept** to add **strategy** and tactical skills to overcome obstacles and enemies in each stage. Players must make decisions about how the character **tactics** to overcome the existing obstacles. In this game, players or users are tasked with exploring the cave, while fighting the existing enemies until they reach the gate to continue the next stage. The diverse and challenging level design can keep players involved. Each stage has a uniqueness that makes exploration more interesting. Has more interesting sound and visual effects when players successfully pass obstacles to provide more satisfaction.
 
