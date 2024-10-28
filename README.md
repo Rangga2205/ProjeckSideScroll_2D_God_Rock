@@ -23,12 +23,12 @@ itch.io : https://ranggayupis.itch.io/god-rock-1
   
 | Part | Development Time |
 |------------------|------|
-| Map Set | 1 Day|
-| Player and Enemy | 1 Day |
-| trap and CheckPoint | 2 Day|
-| Mecanic | 1 Day |
-| Level Design | 2 Day |
-| UI Menu | 2 Day |
+| Map Set | 60 Minutes|
+| Player and Enemy | 120 Minutes |
+| trap and CheckPoint | 80 Minutes |
+| Mecanic | 600 Minutes |
+| Level Design | 90 Minutes |
+| UI Menu | 60 Minutes |
 
 ## 📜Scripts and Features
 - UI Pause Menu players can exit the game or reload from this menu.
