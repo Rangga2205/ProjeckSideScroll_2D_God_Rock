@@ -13,7 +13,7 @@ Checkpoint and Pause System Features. For example, if the player wants to stop f
 View Full Gameplay : https://youtu.be/0ZJpfFQ3HeM?si=rkbvegm7qnJEFB-c
 
 ## 🕹️Play Game
-itch.io : https://ranggayupis.itch.io/god-rock-1
+itch.io : Wating Update
 
 ## 📋 Project Info
 - Made using Unity Editor 2022.3.19f1.
